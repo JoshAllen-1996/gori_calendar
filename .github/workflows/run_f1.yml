@@ -1,0 +1,35 @@
+name: Update F1 Schedule
+
+on:
+  workflow_dispatch: # スマホからの手動実行用
+  schedule:
+    # 毎日午前3時(JST)に自動実行する場合（UTC 18:00）
+    - cron: '0 18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install fastf1 pandas
+
+      - name: Run F1 Script
+        run: |
+          python F1結果_修正版.py
+
+      - name: Commit and Push schedule.txt
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedule.txt
+          git commit -m "Auto update schedule.txt via GitHub Actions" || exit 0
+          git push
