@@ -3,7 +3,7 @@ name: Update F1 Schedule
 on:
   workflow_dispatch: # スマホからの手動実行用
   schedule:
-    # 毎日午前3時(JST)に自動実行する場合（UTC 18:00）
+    # 毎日午前3時(JST)に自動実行（UTC 18:00）
     - cron: '0 18 * * *'
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Run F1 Script
         run: |
-          python F1結果_修正版.py
+          python F1結果.py
 
       - name: Commit and Push schedule.txt
         run: |
