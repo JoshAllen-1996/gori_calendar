@@ -65,7 +65,7 @@
 9/13 22:00 Spanish GP 決勝 (ANT (94:23.754)・VER (0:04.351)・NOR (0:05.089))
 
 // 第15戦 Azerbaijan GP
-9/25 21:00 Azerbaijan GP 予選
+9/25 21:00 Azerbaijan GP 予選 (RUS (1:42.526)・LEC (1:43.363)・PIA (1:43.364))
 9/26 20:00 Azerbaijan GP 決勝
 
 // 第16戦 Bahrain GP
