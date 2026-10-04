@@ -70,7 +70,7 @@
 
 // 第16戦 Bahrain GP
 10/3 17:00 Bahrain GP 予選 (VER (1:35.130)・HAM (1:35.428)・HAD (1:35.558))
-10/4 16:00 Bahrain GP 決勝
+10/4 16:00 Bahrain GP 決勝 (VER (107:14.808)・ANT (0:02.307)・HAM (0:04.919))
 
 // 第17戦 Singapore GP
 10/9 21:30 Singapore GP スプリント予選
