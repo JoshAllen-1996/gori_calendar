@@ -75,7 +75,7 @@
 // 第17戦 Singapore GP
 10/9 21:30 Singapore GP スプリント予選
 10/10 18:00 Singapore GP スプリント
-10/10 22:00 Singapore GP 予選
+10/10 22:30 Singapore GP 予選
 10/11 21:00 Singapore GP 決勝
 
 // 第18戦 United States GP
