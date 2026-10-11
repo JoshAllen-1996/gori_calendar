@@ -74,9 +74,9 @@
 
 // 第17戦 Singapore GP
 10/9 21:30 Singapore GP スプリント予選
-10/10 18:00 Singapore GP スプリント
-10/10 22:30 Singapore GP 予選
-10/11 21:00 Singapore GP 決勝
+10/10 18:00 Singapore GP スプリント (VER (39:48.162)・HAM (0:02.591)・LEC (0:16.871))
+10/10 22:00 Singapore GP 予選 (VER (1:31.373)・LEC (1:31.427)・HAM (1:31.496))
+10/11 21:00 Singapore GP 決勝 (VER (102:00.785)・LEC (0:07.335)・ANT (0:24.573))
 
 // 第18戦 United States GP
 10/25 6:00 United States GP 予選
