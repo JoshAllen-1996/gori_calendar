@@ -79,7 +79,7 @@
 10/11 21:00 Singapore GP 決勝 (VER (102:00.785)・LEC (0:07.335)・ANT (0:24.573))
 
 // 第18戦 United States GP
-10/25 6:00 United States GP 予選
+10/25 6:00 United States GP 予選 (ANT (1:34.035)・VER (1:34.214)・HAD (1:34.250))
 10/26 5:00 United States GP 決勝
 
 // 第19戦 Mexico City GP
