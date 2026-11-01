@@ -83,7 +83,7 @@
 10/26 5:00 United States GP 決勝 (ANT (95:16.650)・LEC (0:13.078)・VER (0:17.485))
 
 // 第19戦 Mexico City GP
-11/1 6:00 Mexico City GP 予選
+11/1 6:00 Mexico City GP 予選 (HAM (1:16.514)・RUS (1:16.523)・LEC (1:16.633))
 11/2 5:00 Mexico City GP 決勝
 
 // 第20戦 São Paulo GP
