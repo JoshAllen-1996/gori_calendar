@@ -84,7 +84,7 @@
 
 // 第19戦 Mexico City GP
 11/1 6:00 Mexico City GP 予選 (HAM (1:16.514)・RUS (1:16.523)・LEC (1:16.633))
-11/2 5:00 Mexico City GP 決勝
+11/2 5:00 Mexico City GP 決勝 (VER (140:28.772)・HAM (0:00.799)・ANT (0:04.006))
 
 // 第20戦 São Paulo GP
 11/8 3:00 São Paulo GP 予選
