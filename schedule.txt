@@ -87,8 +87,8 @@
 11/2 5:00 Mexico City GP 決勝 (VER (140:28.772)・HAM (0:00.799)・ANT (0:04.006))
 
 // 第20戦 São Paulo GP
-11/8 3:00 São Paulo GP 予選
-11/9 2:00 São Paulo GP 決勝
+11/8 3:00 São Paulo GP 予選 (NOR (No Time)・RUS (No Time)・ANT (No Time))
+11/9 2:00 São Paulo GP 決勝 (NOR (95:23.504)・VER (0:14.602)・HAD (0:24.485))
 
 // 第21戦 Las Vegas GP
 11/21 13:00 Las Vegas GP 予選
