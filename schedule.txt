@@ -5,7 +5,7 @@
 // 第2戦 Chinese GP
 3/13 16:30 Chinese GP スプリント予選
 3/14 12:00 Chinese GP スプリント (RUS (33:38.998)・LEC (0:00.674)・HAM (0:02.554))
-3/14 16:00 Chinese GP 予選 (ANT (1:32.064)・RUS (1:32.286)・HAM (1:32.415))
+3/14 16:00 Chinese GP 予選
 3/15 16:00 Chinese GP 決勝 (ANT (93:15.607)・RUS (0:05.515)・HAM (0:25.267))
 
 // 第3戦 Japanese GP
