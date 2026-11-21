@@ -91,7 +91,7 @@
 11/9 2:00 São Paulo GP 決勝 (NOR (95:23.504)・VER (0:14.602)・HAD (0:24.485))
 
 // 第21戦 Las Vegas GP
-11/21 13:00 Las Vegas GP 予選
+11/21 13:00 Las Vegas GP 予選 (ANT (1:33.893)・VER (1:34.151)・RUS (1:34.224))
 11/22 13:00 Las Vegas GP 決勝
 
 // 第22戦 Qatar GP
