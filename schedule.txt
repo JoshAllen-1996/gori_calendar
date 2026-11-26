@@ -39,37 +39,37 @@
 // 第9戦 British GP
 7/4 0:30 British GP スプリント予選
 7/4 20:00 British GP スプリント (ANT (26:12.129)・HAM (0:02.745)・NOR (0:09.783))
-7/5 0:00 British GP 予選 (ANT (1:28.111)・LEC (1:28.286)・HAM (1:28.458))
-7/5 23:00 British GP 決勝 (LEC (87:11.335)・RUS (0:00.427)・HAM (0:00.772))
+7/5 0:00 British GP 予選
+7/5 23:00 British GP 決勝
 
 // 第10戦 Belgian GP
-7/18 23:00 Belgian GP 予選 (ANT (1:44.361)・VER (1:44.678)・NOR (1:44.801))
-7/19 22:00 Belgian GP 決勝 (ANT (84:42.479)・LEC (0:01.952)・VER (0:11.586))
+7/18 23:00 Belgian GP 予選
+7/19 22:00 Belgian GP 決勝
 
 // 第11戦 Hungarian GP
-7/25 23:00 Hungarian GP 予選 (NOR (1:17.207)・HAM (1:17.219)・LEC (1:17.445))
-7/26 22:00 Hungarian GP 決勝 (NOR (99:56.180)・VER (0:15.080)・ANT (0:18.728))
+7/25 23:00 Hungarian GP 予選
+7/26 22:00 Hungarian GP 決勝
 
 // 第12戦 Dutch GP
 8/21 23:30 Dutch GP スプリント予選
-8/22 19:00 Dutch GP スプリント (RUS (30:25.318)・LEC (0:01.360)・NOR (0:05.196))
-8/22 23:00 Dutch GP 予選 (NOR (1:11.163)・RUS (1:11.265)・ANT (1:11.296))
-8/23 22:00 Dutch GP 決勝 (NOR (124:44.859)・ANT (0:11.536)・RUS (0:15.906))
+8/22 19:00 Dutch GP スプリント
+8/22 23:00 Dutch GP 予選
+8/23 22:00 Dutch GP 決勝
 
 // 第13戦 Italian GP
-9/5 23:00 Italian GP 予選 (GAS (1:21.786)・RUS (1:21.846)・PIA (1:21.966))
-9/6 22:00 Italian GP 決勝 (ANT (111:15.281)・RUS (0:03.857)・VER (0:14.718))
+9/5 23:00 Italian GP 予選
+9/6 22:00 Italian GP 決勝
 
 // 第14戦 Spanish GP
-9/12 23:00 Spanish GP 予選 (NOR (1:31.824)・ANT (1:31.835)・VER (1:31.964))
-9/13 22:00 Spanish GP 決勝 (ANT (94:23.754)・VER (0:04.351)・NOR (0:05.089))
+9/12 23:00 Spanish GP 予選
+9/13 22:00 Spanish GP 決勝
 
 // 第15戦 Azerbaijan GP
-9/25 21:00 Azerbaijan GP 予選 (RUS (1:42.526)・LEC (1:43.363)・PIA (1:43.364))
-9/26 20:00 Azerbaijan GP 決勝 (RUS (98:02.143)・VER (0:00.196)・HAD (0:10.704))
+9/25 21:00 Azerbaijan GP 予選
+9/26 20:00 Azerbaijan GP 決勝
 
 // 第16戦 Bahrain GP
-10/3 17:00 Bahrain GP 予選 (VER (1:35.130)・HAM (1:35.428)・HAD (1:35.558))
+10/3 17:00 Bahrain GP 予選
 10/4 16:00 Bahrain GP 決勝 (VER (107:14.808)・ANT (0:02.307)・HAM (0:04.919))
 
 // 第17戦 Singapore GP
@@ -87,7 +87,7 @@
 11/2 5:00 Mexico City GP 決勝 (VER (140:28.772)・HAM (0:00.799)・ANT (0:04.006))
 
 // 第20戦 São Paulo GP
-11/8 3:00 São Paulo GP 予選 (NOR (1:27.470)・RUS (1:27.674)・ANT (1:28.095))
+11/8 3:00 São Paulo GP 予選
 11/9 2:00 São Paulo GP 決勝 (NOR (95:23.504)・VER (0:14.602)・HAD (0:24.485))
 
 // 第21戦 Las Vegas GP
